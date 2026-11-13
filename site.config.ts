@@ -39,7 +39,7 @@ export const site: SiteConfig = {
     title: "Welcome to Sugar Memories by BnB",
     body: [
       "Sugar Memories by BnB is a Brampton home bakery making eggless cakes to order, including cream, bundt, designer and bento cakes. The bakery has been making sugary memories since 2019.",
-      "Posted orders have included a 6 inch rasmalai cake, a 6 inch strawberry cake, and two tier cakes in 8 and 5 inch sizes, including a vanilla Biscoff cake described as good for about 30 people. Send a message on Instagram to order. Pickup is in Brampton.",
+      "Recent orders have included a 6 inch rasmalai cake, a 6 inch strawberry cake, and two tier cakes in 8 and 5 inch sizes, including a vanilla Biscoff cake good for about 30 people. Send a message on Instagram to order. Pickup is in Brampton.",
     ],
     image: { src: "/images/post-7.jpg", alt: "A two tier floral rasmalai cake from Sugar Memories by BnB", width: 1080, height: 1440 },
   },
@@ -63,9 +63,9 @@ export const site: SiteConfig = {
       {
         title: "Flavours and sizes from recent orders",
         items: [
-          { name: "Eggless rasmalai cake", description: "Posted as a 6 inch cake, and as a two tier 8 and 5 inch cake." },
-          { name: "Strawberry cake", description: "Posted as a 6 inch cake." },
-          { name: "Two tier vanilla Biscoff cake", description: "Posted as 8 inch and 5 inch tiers, described as good for about 30 people." },
+          { name: "Eggless rasmalai cake", description: "A 6 inch cake, and a two tier 8 and 5 inch cake." },
+          { name: "Strawberry cake", description: "A 6 inch cake." },
+          { name: "Two tier vanilla Biscoff cake", description: "8 inch and 5 inch tiers, good for about 30 people." },
         ],
       },
     ],
